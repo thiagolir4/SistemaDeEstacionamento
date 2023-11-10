@@ -1,0 +1,14 @@
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\bin\Debug\net7.0\sistema de estacionamento.exe
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\bin\Debug\net7.0\sistema de estacionamento.deps.json
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\bin\Debug\net7.0\sistema de estacionamento.runtimeconfig.json
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\bin\Debug\net7.0\sistema de estacionamento.dll
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\bin\Debug\net7.0\sistema de estacionamento.pdb
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\obj\Debug\net7.0\sistema de estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\obj\Debug\net7.0\sistema de estacionamento.AssemblyInfoInputs.cache
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\obj\Debug\net7.0\sistema de estacionamento.AssemblyInfo.cs
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\obj\Debug\net7.0\sistema de estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\obj\Debug\net7.0\sistema de estacionamento.dll
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\obj\Debug\net7.0\refint\sistema de estacionamento.dll
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\obj\Debug\net7.0\sistema de estacionamento.pdb
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\obj\Debug\net7.0\sistema de estacionamento.genruntimeconfig.cache
+C:\Users\thili\OneDrive\Área de Trabalho\sistema de estacionamento\obj\Debug\net7.0\ref\sistema de estacionamento.dll
