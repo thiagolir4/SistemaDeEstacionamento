@@ -8,14 +8,6 @@ Para este desafio, você precisará usar seus conhecimentos adquiridos no módul
 Contexto
 Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
 
-Proposta
-Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo: Diagrama de classe estacionamento
-
-A classe contém três variáveis, sendo:
-
-precoInicial: Tipo decimal. É o preço cobrado para deixar seu veículo estacionado.
-
-precoPorHora: Tipo decimal. É o preço por hora que o veículo permanecer estacionado.
 
 veiculos: É uma lista de string, representando uma coleção de veículos estacionados. Contém apenas a placa do veículo.
 
